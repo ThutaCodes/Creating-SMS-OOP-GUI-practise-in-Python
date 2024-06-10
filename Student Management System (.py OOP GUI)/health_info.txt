@@ -1,0 +1,5 @@
+ 0001,Asthma,098-112-2334,Vaccinated
+ 0002,Diabetes,098-223-3445,Not Vaccinated
+ 0003,Allergy,098-334-4556,Vaccinated
+ 0004,None,098-445-5667,Vaccinated
+ 0005,Epilepsy,098-556-6778,Not Vaccinated

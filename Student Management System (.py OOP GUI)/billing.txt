@@ -1,0 +1,5 @@
+0001,Paid in Full,0,2023-06-01 Paid
+0002,Partial Payment,100,2023-06-01 Paid
+0003,Paid in Full,0,2023-06-01 Paid
+0004,Outstanding Balance,200,2023-06-01 Unpaid
+0005,Partial Payment,50,2023-06-01 Paid
